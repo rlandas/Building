@@ -1,0 +1,1 @@
+This is a ZF2 module based on the tutorial by Reese Wilson (https://github.com/rwilson04) in http://zendblog.shinymayhem.com/2012/09/using-servicemanager-as-inversion-of_28.html
